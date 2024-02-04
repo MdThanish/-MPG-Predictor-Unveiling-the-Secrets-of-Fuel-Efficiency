@@ -10,7 +10,7 @@
    - 📊 **ANOVA Test:** Assess the strength of predictive variables statistically.
 
 **4. Technologies Used:**
-   - **Programming Language:** Python
+   - **Programming Language:** R
    - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
    - **Version Control:** Git
    - **Statistical Analysis:** ANOVA Test
